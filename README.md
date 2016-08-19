@@ -5,8 +5,6 @@ This is a capstone team project at NYU CUSP 2016.
 
 The project is sponsored by the office of Attorney General in New York state (OAG).
 
-The outcome of the project is being emplemented in reality by OAG.
-
 The project won the first prize in the capstone presentation at NYU CUSP 2016.
 
 ## Goal
