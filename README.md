@@ -12,7 +12,7 @@ The project won the first prize in the capstone presentation at NYU CUSP 2016.
 ## Goal
 Detect fraud situation (Most complained companies/industries, trend, location, topics) in New York state through multiple data sources (OAG internal data, Twitter data, CFPB financial complaint data) 
 
-## Challange
+## Challenge
 Pick up fraud relevent tweets from general tweets
 
 Build a concise visualization tool with interaction for attorneys in OAG to detect fraud
