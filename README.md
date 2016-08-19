@@ -23,11 +23,11 @@ Consumer Financial Protection Bureau(CFPB) Database
 General Tweets scraped through twitter api  
 
 ## Implemented method/algorithm
-transformation: Bag of word/ Tf-transforation/ bigram
+transformation: Bag of word/ Tf-idf/ bigram
 
 classification model: Support Vector Machine/ Random Forest/ Naive Bayes
 
-topic model: LSI/ LDA
+topic model: LSA/ LDA
 
 vector space model: Word2Vec
 
