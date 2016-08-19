@@ -1,7 +1,7 @@
 # Consumer-Fraud-Detection-with-Tweets-
 
 ## Background
-A capstone project at NYU CUSP 2016
+This is a capstone project at NYU CUSP 2016.
 
 Sponsored by the office of Attorney General in New York state (OAG)
 
