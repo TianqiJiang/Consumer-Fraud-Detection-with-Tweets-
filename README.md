@@ -43,6 +43,6 @@ A vector space model for recongizing relationship(distence) between words from f
 
 A fraud detection visualization tool showing most complained companies/industries, fraud trend, location and narratives. Find it here: https://vimeo.com/179412528
 
-######## reach me by tj763@nyu.edu
+###### reach me by tj763@nyu.edu
 
 
