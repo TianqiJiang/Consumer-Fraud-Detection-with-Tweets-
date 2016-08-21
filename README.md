@@ -37,7 +37,7 @@ validation: n-fold cross validation
 NLTK, Gensim, Lda, Sklearn, Numpy, Scipy, Pandas, Matplotlib
 
 ## Outcome
-A classification model for labling general tweets with fraud relevent or not, and industry categoary if fraud relecent
+A classification model for labling general tweets with fraud relevent or not, and industry categoary if fraud relevent
 
 A vector space model for recongizing relationship(distence) between words from fraud narratives
 
