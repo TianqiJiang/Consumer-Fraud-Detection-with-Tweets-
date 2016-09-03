@@ -11,7 +11,7 @@ The project won the first prize in the capstone presentation at NYU CUSP 2016.
 Detect fraud situation (Most complained companies/industries, trend, location, topics) in New York state through multiple data sources (OAG internal data, Twitter data, CFPB financial complaint data) 
 
 ## Challenge
-Pick up fraud relevent tweets from general tweets
+Pick up fraud relevant tweets from general tweets
 
 Build a concise visualization tool with interaction for attorneys in OAG to detect fraud
 
@@ -20,7 +20,7 @@ Labled OAG internal complaint data (Confidencial)
 
 Consumer Financial Protection Bureau(CFPB) Database
 
-General Tweets scraped through twitter api  
+General Tweets scraped through twitter API  
 
 ## Implemented method/algorithm
 transformation: Bag of word/ Tf-idf/ bigram
@@ -37,11 +37,11 @@ validation: n-fold cross validation
 NLTK, Gensim, Lda, Sklearn, Numpy, Scipy, Pandas, Matplotlib
 
 ## Outcome
-A classification model for labling general tweets with fraud relevent or not, and industry categoary if fraud relevent
+A classification model for labeling general tweets with fraud relevant or not, and industry category if fraud relevant
 
-A vector space model for recongizing relationship(distence) between words from fraud narratives
+A vector space model for recognizing relationship(distance) between words from fraud narratives
 
-A fraud detection visualization tool showing most complained companies/industries, fraud trend, location and narratives. Find it here: https://vimeo.com/179412528
+A fraud detection visualization tool showing most complained companies/industries, fraud trend, location, and narratives. Find it here: https://vimeo.com/179412528
 
 ###### reach me by tj763@nyu.edu
 
